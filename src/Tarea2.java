@@ -66,6 +66,7 @@ public class Tarea2 {
                 break;
             case "Primavera":
                 System.out.println("Estamos en primavera");
+                break;
             default:
                 System.out.println("No es una estación del año.");
 
